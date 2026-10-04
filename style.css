@@ -206,9 +206,12 @@ button {
 }
 
 .mobile-menu a {
+    display: block;
     font-size: 1.8rem;
     font-weight: 800;
     letter-spacing: -0.05em;
+    color: #f5f5f5;
+    text-decoration: none;
 }
 
 
